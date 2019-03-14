@@ -15,7 +15,7 @@ public protocol AnyResource : class {
 
 open class Resource<Model : DataConvertible> : Observable<Result<Model>>, AnyResource {
     
-    open let request: () -> GET<Model>
+    public let request: () -> GET<Model>
     
     open var result: Result<Model> {
         get {
