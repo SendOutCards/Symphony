@@ -1,0 +1,32 @@
+{
+  "name": "Request",
+  "version": "0.1.1",
+  "summary": "Magical Networking Framework",
+  "description": "Simple, expressive, fast, even magical, Swift networking framework.",
+  "homepage": "https://github.com/bradhilton/Request",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Brad Hilton": "brad@skyvive.com"
+  },
+  "source": {
+    "git": "https://github.com/bradhilton/Request.git",
+    "tag": "0.1.1"
+  },
+  "platforms": {
+    "ios": "8.0",
+    "osx": "10.9"
+  },
+  "source_files": [
+    "Request",
+    "Request/**/*.{swift,h,m}"
+  ],
+  "requires_arc": true,
+  "dependencies": {
+    "Convertible": [
+      "~>1.0.3"
+    ]
+  }
+}

@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "A28A52F61CBDD8BC006891A3"
-               BuildableName = "Symphony.framework"
-               BlueprintName = "Symphony"
-               ReferencedContainer = "container:Symphony.xcodeproj">
+               BlueprintIdentifier = "6D75171B9C70B43A47B9248439CD9C79"
+               BuildableName = "August.framework"
+               BlueprintName = "August"
+               ReferencedContainer = "container:Pods.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -29,26 +29,7 @@
       language = ""
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
-         <TestableReference
-            skipped = "NO">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "A28A53001CBDD8BC006891A3"
-               BuildableName = "SymphonyTests.xctest"
-               BlueprintName = "SymphonyTests"
-               ReferencedContainer = "container:Symphony.xcodeproj">
-            </BuildableReference>
-         </TestableReference>
       </Testables>
-      <MacroExpansion>
-         <BuildableReference
-            BuildableIdentifier = "primary"
-            BlueprintIdentifier = "A28A52F61CBDD8BC006891A3"
-            BuildableName = "Symphony.framework"
-            BlueprintName = "Symphony"
-            ReferencedContainer = "container:Symphony.xcodeproj">
-         </BuildableReference>
-      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </TestAction>
@@ -66,10 +47,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "A28A52F61CBDD8BC006891A3"
-            BuildableName = "Symphony.framework"
-            BlueprintName = "Symphony"
-            ReferencedContainer = "container:Symphony.xcodeproj">
+            BlueprintIdentifier = "6D75171B9C70B43A47B9248439CD9C79"
+            BuildableName = "August.framework"
+            BlueprintName = "August"
+            ReferencedContainer = "container:Pods.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -81,15 +62,6 @@
       savedToolIdentifier = ""
       useCustomWorkingDirectory = "NO"
       debugDocumentVersioning = "YES">
-      <MacroExpansion>
-         <BuildableReference
-            BuildableIdentifier = "primary"
-            BlueprintIdentifier = "A28A52F61CBDD8BC006891A3"
-            BuildableName = "Symphony.framework"
-            BlueprintName = "Symphony"
-            ReferencedContainer = "container:Symphony.xcodeproj">
-         </BuildableReference>
-      </MacroExpansion>
    </ProfileAction>
    <AnalyzeAction
       buildConfiguration = "Debug">

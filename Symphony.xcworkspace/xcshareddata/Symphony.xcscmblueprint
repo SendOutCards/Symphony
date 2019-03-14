@@ -1,0 +1,29 @@
+{
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "2F56133E41681A4168DF6D2E23D553B61A5FC729" : 0,
+    "0DD2F07C6CA4361BF3A1BCD97C78BA5DF1A265DF" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "6B392FC7-9F6C-4FF0-AAFB-B21F8585B542",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "2F56133E41681A4168DF6D2E23D553B61A5FC729" : "August\/",
+    "0DD2F07C6CA4361BF3A1BCD97C78BA5DF1A265DF" : "..\/Brad%20Hilton\/Request"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Symphony",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Symphony.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:bradhilton\/Request.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0DD2F07C6CA4361BF3A1BCD97C78BA5DF1A265DF"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:bradhilton\/August",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2F56133E41681A4168DF6D2E23D553B61A5FC729"
+    }
+  ]
+}

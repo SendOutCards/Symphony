@@ -1,0 +1,34 @@
+PODS:
+  - AssociatedValues (3.0.0)
+  - August (0.4.3):
+    - AssociatedValues (~> 3.0.0)
+    - Convertible (~> 4.2.0)
+  - Convertible (4.2.0):
+    - Reflection (~> 0.18.0)
+  - ConvertibleArchiver (0.4.2):
+    - Convertible (~> 4.2.0)
+  - Reflection (0.18.0)
+
+DEPENDENCIES:
+  - AssociatedValues (~> 3.0.0)
+  - August (~> 0.4.3)
+  - ConvertibleArchiver (~> 0.4.2)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - AssociatedValues
+    - August
+    - Convertible
+    - ConvertibleArchiver
+    - Reflection
+
+SPEC CHECKSUMS:
+  AssociatedValues: 5c29f5c0bb2672cf9ef0394bcbe3ce28b9fa0c2a
+  August: a8b8f8ccd7f29926d259892e858270ee7f977ef6
+  Convertible: c912b733fa37bcf129e1a100d52ffeab59a78246
+  ConvertibleArchiver: b1b217f3b6e88b146aac8972e1324f6ec17d0f4e
+  Reflection: 3baa5670837f450a6432b80bad5fc1cb99664665
+
+PODFILE CHECKSUM: 2a1416e62da0af6fa73c4448c12f1dfa7f90c089
+
+COCOAPODS: 1.5.3

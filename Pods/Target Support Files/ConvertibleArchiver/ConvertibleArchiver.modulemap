@@ -1,0 +1,6 @@
+framework module ConvertibleArchiver {
+  umbrella header "ConvertibleArchiver-umbrella.h"
+
+  export *
+  module * { export * }
+}
