@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "1010"
+   LastUpgradeVersion = "1020"
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "B1E1D955FC28D74E8A9F3C2347DCCACB"
+               BlueprintIdentifier = "19B0629ED6A6AA06E84197F38A503353"
                BuildableName = "AssociatedValues.framework"
                BlueprintName = "AssociatedValues"
                ReferencedContainer = "container:Pods.xcodeproj">
@@ -45,7 +45,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "B1E1D955FC28D74E8A9F3C2347DCCACB"
+            BlueprintIdentifier = "19B0629ED6A6AA06E84197F38A503353"
             BuildableName = "AssociatedValues.framework"
             BlueprintName = "AssociatedValues"
             ReferencedContainer = "container:Pods.xcodeproj">
