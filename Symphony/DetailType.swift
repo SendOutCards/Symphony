@@ -12,8 +12,8 @@ public protocol DetailType : DataConvertible, Hashable {
 
 extension DetailType {
     
-    public var hashValue: Int {
-        return id
+    public func hash(into hasher: inout Hasher) {
+        hasher.combine(id)
     }
     
 }

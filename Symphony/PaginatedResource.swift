@@ -6,7 +6,7 @@
 //  Copyright © 2016 Brad Hilton. All rights reserved.
 //
 
-open class PaginatedResource<Model : Codable> : Resource<[Model]> {
+open class PaginatedResource<Model : Decodable> : Resource<[Model]> {
     
     fileprivate let limit: Int
     fileprivate var resourcesCount: Int?

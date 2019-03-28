@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "Symphony"
-  s.version      = "5.0.0"
+  s.version      = "5.0.1"
   s.summary      = "High-level Networking And Storage Abstraction"
   s.description  = <<-DESC
                     Builds on August and ConvertibleArchiver frameworks to provide a higher-level networking and storage abstraction.
@@ -15,7 +15,7 @@ Pod::Spec.new do |s|
 
   s.source_files  = "Symphony", "Symphony/**/*.{swift,h,m}"
   s.requires_arc = true
-  s.dependency 'AssociatedValues', '~> 5.0.0'
-  s.dependency 'August', '~> 0.5.0'
-  s.dependency 'ConvertibleArchiver', '~> 0.5.0'
+  s.dependency 'AssociatedValues', '5.0.0'
+  s.dependency 'August', '5.0.1'
+  s.dependency 'ConvertibleArchiver', '5.0.1'
 end

@@ -1,16 +1,16 @@
 PODS:
   - AssociatedValues (5.0.0)
-  - August (0.5.0):
+  - August (5.0.1):
     - AssociatedValues (= 5.0.0)
-    - Convertible (= 5.0.1)
-  - Convertible (5.0.1)
-  - ConvertibleArchiver (0.5.0):
-    - Convertible (= 5.0.1)
+    - Convertible (= 5.0.2)
+  - Convertible (5.0.2)
+  - ConvertibleArchiver (5.0.1):
+    - Convertible (= 5.0.2)
 
 DEPENDENCIES:
-  - AssociatedValues (~> 5.0.0)
-  - August (~> 0.5.0)
-  - ConvertibleArchiver (~> 0.5.0)
+  - AssociatedValues (= 5.0.0)
+  - August (= 5.0.1)
+  - ConvertibleArchiver (= 5.0.1)
 
 SPEC REPOS:
   https://github.com/cocoapods/specs.git:
@@ -21,9 +21,9 @@ SPEC REPOS:
 
 SPEC CHECKSUMS:
   AssociatedValues: 33dfc4f4d0ec2f1177a2558e176364e2ac849cd1
-  August: 22108f293a5f7e144e2bf96c9863a2a136cb8a32
-  Convertible: f59d5a0bf60a1b81fff6916b82af792b37faf0e4
-  ConvertibleArchiver: 1a0c0e6456438e225b122a43f21d414437ea1cd5
+  August: 1db2dae3e01ccc69fbb7a1f8c0e30b439607cac6
+  Convertible: a9606064b2139d1ed44d01881ba93c1148c4dbd4
+  ConvertibleArchiver: c9de1f27b96e1c980b6dda35f5a922dcbd9827bf
 
 PODFILE CHECKSUM: 2a1416e62da0af6fa73c4448c12f1dfa7f90c089
 

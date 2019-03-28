@@ -13,7 +13,7 @@ public protocol AnyResource : class {
     func unload()
 }
 
-open class Resource<Model : DataConvertible> : Observable<Result<Model>>, AnyResource {
+open class Resource<Model : DataInitializable> : Observable<Result<Model>>, AnyResource {
     
     public let request: () -> GET<Model>
     
