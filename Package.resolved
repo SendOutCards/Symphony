@@ -1,0 +1,43 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "AssociatedValues",
+        "repositoryURL": "https://github.com/paulofaria/AssociatedValues.git",
+        "state": {
+          "branch": null,
+          "revision": "2067609060cb3d587727edd1eae432946a6b2046",
+          "version": "6.0.0"
+        }
+      },
+      {
+        "package": "August",
+        "repositoryURL": "https://github.com/paulofaria/August.git",
+        "state": {
+          "branch": null,
+          "revision": "e6fe409ac047d614d8cc437edac6ba2abd21479c",
+          "version": "6.0.0"
+        }
+      },
+      {
+        "package": "Convertible",
+        "repositoryURL": "https://github.com/paulofaria/Convertible.git",
+        "state": {
+          "branch": null,
+          "revision": "0aa35b2e2f579dbb3e0dc9730af14a8d1938eb02",
+          "version": "6.0.0"
+        }
+      },
+      {
+        "package": "ConvertibleArchiver",
+        "repositoryURL": "https://github.com/paulofaria/ConvertibleArchiver.git",
+        "state": {
+          "branch": null,
+          "revision": "0e87b709ec22fdc7ddbb8bc144fa0ee4a78be049",
+          "version": "6.0.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
