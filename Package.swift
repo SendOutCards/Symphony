@@ -10,7 +10,7 @@ let package = Package(
         .library(name: "Symphony", targets: ["Symphony"]),
     ],
     dependencies: [
-        .package(url: "https://github.com/paulofaria/August.git", .upToNextMajor(from: "6.0.0")),
+        .package(url: "https://github.com/SendOutCards/August.git", .upToNextMajor(from: "6.0.0")),
     ],
     targets: [
         .target(name: "Symphony", dependencies: ["August"]),
